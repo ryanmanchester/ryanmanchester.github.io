@@ -1,0 +1,21 @@
+# Site settings
+title: Inherently Broken
+header-img: img/home-bg.png
+email: ryanm17@gmail.com
+copyright_name: ryanmanchester
+description: > # this means to ignore newlines until "baseurl:"
+  How I Learned to Love to Fail 
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  ryanmanchester
+learn_profile: ryanmanchester
+email_username: ryanm17@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
