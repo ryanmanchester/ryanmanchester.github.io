@@ -1,15 +1,14 @@
 # Site settings
+author: Ryan Manchester
 title: Inherently Broken
 header-img: img/home-bg.png
 email: ryanm17@gmail.com
-copyright_name: ryanmanchester
+copyright_name: Ryan Manchester
 description: > # this means to ignore newlines until "baseurl:"
   How I Learned to Love to Fail 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ryanmanchester
-learn_profile: ryanmanchester
-email_username: ryanm17@gmail.com
 
 # Build settings
 markdown: kramdown
